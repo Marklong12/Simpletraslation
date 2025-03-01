@@ -1,0 +1,2 @@
+# Simpletraslation
+基于百度翻译api的便捷翻译，使用windows系统通知返回结果，便于后续集成
